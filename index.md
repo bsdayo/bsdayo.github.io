@@ -6,7 +6,7 @@
 
 ### .NET
 
-- [Satori.NET](./satori-net/)
+- [Satori.NET](./Satori.NET/)
 
 ## License
 
