@@ -24,6 +24,8 @@ jobs:
           fetch-depth: 0
 
       - uses: pnpm/action-setup@v2
+        with:
+          version: 8
 
       - name: Setup Node
         uses: actions/setup-node@v3
@@ -53,7 +55,6 @@ jobs:
       url: ${{ steps.deployment.outputs.page_url }}
     needs: build
     runs-on: ubuntu-latest
-    name: Deploy
     steps:
       - name: Deploy to GitHub Pages
         id: deployment
