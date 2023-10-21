@@ -4,5 +4,6 @@ import { defineConfig } from 'vitepress'
 export default defineConfig({
   lang: 'zh-CN',
   title: 'BsDocs',
-  description: 'Collection of bsdayo\'s Project Documentation',
+  description: "Collection of bsdayo's Project Documentation",
+  ignoreDeadLinks: true,
 })
