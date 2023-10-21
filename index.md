@@ -6,7 +6,7 @@
 
 ### .NET
 
-- [Satori.NET](./Satori.NET/)
+- [Satori.NET](https://docs.bsdayo.moe/Satori.NET/)
 
 ## License
 
