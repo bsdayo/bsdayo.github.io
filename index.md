@@ -10,4 +10,4 @@
 
 ## License
 
-All documents are licensed under the [CC BY-NC 4.0](https://creativecommons.org/licenses/by-nc/4.0/) license if not specifically noted in a particular document.
+All documents are licensed under the [CC BY-NC 4.0](https://creativecommons.org/licenses/by-nc/4.0/) license if not specified in a particular document.
