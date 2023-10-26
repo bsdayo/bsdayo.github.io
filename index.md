@@ -1,13 +1,11 @@
 # BsDocs Home
 
-> Collection of bsdayo\'s project documentations
+> Collection of bsdayo\'s project documentation
 
-## Index
-
-### .NET
-
-- [Satori.NET](https://docs.bsdayo.moe/Satori.NET/)
+::: info
+Some documentations are only available in Simplified Chinese.
+:::
 
 ## License
 
-All documents are licensed under the [CC BY-NC 4.0](https://creativecommons.org/licenses/by-nc/4.0/) license if not specified in a particular document.
+All documentations are licensed under the [CC BY-NC 4.0](https://creativecommons.org/licenses/by-nc/4.0/) license if not specified in a particular documentation.

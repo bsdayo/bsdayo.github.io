@@ -1,9 +1,13 @@
 import { defineConfig } from 'vitepress'
+import sidebar from './sidebar'
 
-// https://vitepress.vuejs.org/config/app-configs
 export default defineConfig({
-  lang: 'zh-CN',
   title: 'BsDocs',
   description: "Collection of bsdayo's Project Documentation",
   ignoreDeadLinks: true,
+
+  themeConfig: {
+    sidebar,
+    sidebarMenuLabel: 'All Docs',
+  },
 })
